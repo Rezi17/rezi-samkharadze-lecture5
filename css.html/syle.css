@@ -32,10 +32,10 @@ nav {
 }
 
 /* hederi dasrulda */
-.section_div {
+.article_div {
     margin-left: 800px;
     margin-top: 322px;
-margin-bottom: 60px;
+    margin-bottom: 60px;
 
 }
 
@@ -51,4 +51,109 @@ h1 {
     height: 90px;
     font-size: 20px;
     font-family: 'Nerko One', cursive;
+}
+
+/* articli dasrulda */
+.section1 {
+    margin-top: 200px;
+    background: rgba(194, 243, 238, 1);
+    width: 1440px;
+    height: 720px;
+    margin-inline: auto;
+}
+
+.article_img {
+    vertical-align: top;
+
+}
+
+.section_div {
+
+    display: inline-block;
+    padding: 80px 130px 710px;
+}
+
+/* ver movatavse gverdigverd veranairad */
+/* -------------- */
+/* .section_div2{
+    display: inline-block;
+    vertical-align: top;
+    background-color: blue;
+
+}
+.section_h1 {
+    font-size: 36px;
+
+} */
+.h1_div {
+    margin-left: 720px;
+    margin-top: 200px;
+}
+
+.h2 {
+    color: rgba(77, 77, 77, 1);
+    font-size: 48px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.photos {
+    margin-left: 360px;
+}
+
+.last_photo {
+    margin-inline: 20px;
+}
+
+.p1 {
+    display: inline-block;
+    font-size: 24px;
+    margin-left: 435px;
+    color: rgba(83, 83, 83, 1);
+    font-family: 'Poppins', sans-serif;
+}
+
+.p2 {
+    margin-left: 145px;
+    display: inline-block;
+    font-size: 24px;
+    color: rgba(83, 83, 83, 1);
+    font-family: 'Poppins', sans-serif;
+}
+
+/* second section done  */
+footer {
+
+    height: 386px;
+    background: rgba(42, 157, 143, 1);
+    margin-top: 262px;
+}
+
+.nav_last {
+    padding-top: 90px;
+    padding-left: 130px;
+}
+
+.div_first{
+    display: inline-block;
+    margin-left: 862px;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.div_second{
+    display: inline-block;
+    margin-inline: 41px;
+    color: #FFFFFF;
+    font-size: 20px;
+}
+.div_third{
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    font-size: 20px;
+    color: #FFFFFF;
+    
+}
+.div5{
+    padding-left:  1089px;
+    
+    padding-bottom: 218px;
 }
