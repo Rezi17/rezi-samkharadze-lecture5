@@ -1,0 +1,32 @@
+header {
+
+    background: rgba(42, 157, 143, 1);
+    height: 122px;
+}
+
+.image {
+    padding: 38px 130px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+li {
+
+    list-style: none;
+    display: inline-block;
+    font-family: 'Nerko One', cursive;
+    color: rgba(255, 255, 255, 1);
+    font-size: 20px;
+}
+
+nav {
+    vertical-align: middle;
+    display: inline-block;
+    padding-top: 46px;
+    padding-left: 533px;
+
+}
+
+.post {
+    margin-inline: 51px;
+}
